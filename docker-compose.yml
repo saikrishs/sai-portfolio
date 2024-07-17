@@ -1,0 +1,31 @@
+version: "3"
+
+services:
+  web-server-portfolio:
+    image: web-server-portfolio
+    container_name: web-server-portfolio
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    env_file:
+      - docker/.docker.env
+    volumes:
+      - .:/var/www/html
+    depends_on:
+      - mysql-server-portfolio
+    ports:
+      - "${APP_HOST_PORT}:80"
+    links:
+      - mysql-server-portfolio
+  mysql-server-portfolio:
+    image: mysql:latest
+    container_name: mysql-server-portfolio
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${DB_DATABASE}
+      MYSQL_USER: ${DB_USERNAME}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - ./mysql-data:/var/lib/mysql
+    ports:
+      - "${DB_HOST_PORT}:3306"
