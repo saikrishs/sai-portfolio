@@ -1,12 +1,13 @@
-# My Porfolio
+# My Portfolio
+
+### Prerequisites
+
+* [Docker](https://www.docker.com/)
 
 ### How to run this project on local
 
 ```bash
 git clone ...
-
-
-install docker
 
 copy .env.example to .env
 
