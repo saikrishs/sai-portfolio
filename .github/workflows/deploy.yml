@@ -16,6 +16,6 @@ jobs:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.SSH_PASSWORD }}
-          port: $ {{ secrets.PORT }}
+          port: ${{ secrets.PORT }}
           script: "cd /var/www/sai-portfolio && chmod +x "
 
