@@ -1,5 +1,3 @@
-version: "3"
-
 services:
   web-server-portfolio:
     image: web-server-portfolio
