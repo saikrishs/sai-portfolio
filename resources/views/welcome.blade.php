@@ -270,7 +270,7 @@
             <div class="contact-info">
               <p class="contact-title">Experience</p>
 
-              <time>9+ Years</time>
+              <time>8+ Years</time>
             </div>
 
           </li>
