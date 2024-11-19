@@ -396,7 +396,7 @@
           - service
         -->
 
-        <section class="service">
+        <!-- <section class="service">
 
           <h3 class="h3 service-title">What i'm doing</h3>
 
@@ -469,14 +469,14 @@
 
           </ul>
 
-        </section>
+        </section> -->
 
 
         <!--
           - testimonials
         -->
 
-        <section class="testimonials">
+        <!-- <section class="testimonials">
 
           <h3 class="h3 testimonials-title">Testimonials</h3>
 
@@ -558,14 +558,14 @@
 
           </ul>
 
-        </section>
+        </section> -->
 
 
         <!--
           - testimonials modal
         -->
 
-        <div class="modal-container" data-modal-container>
+        <!-- <div class="modal-container" data-modal-container>
 
           <div class="overlay" data-overlay></div>
 
@@ -601,14 +601,14 @@
 
           </section>
 
-        </div>
+        </div> -->
 
 
         <!--
           - clients
         -->
 
-        <section class="clients">
+        <!-- <section class="clients">
 
           <h3 class="h3 clients-title">Clients</h3>
 
@@ -645,9 +645,9 @@
             </li>
           </ul>
 
-        </section>
+        </section> -->
 
-      </article> -->
+      <!-- </article>  -->
       <!--
         - #RESUME
       -->
