@@ -527,7 +527,7 @@
                   <img src="/assets/images/avatar-2.png" alt="Neha" width="60" data-testimonials-avatar>
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title>Lakshmi J</h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Neha</h4>
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
@@ -545,7 +545,7 @@
                   <img src="/assets/images/avatar-3.png" alt="Lakshmi" width="60" data-testimonials-avatar>
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title>Divya J</h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Lakshmi</h4>
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
@@ -620,17 +620,17 @@
               </a>
             </li>
 
-            <li class="clients-item">
-              <!-- <a href="#">
+            <!-- <li class="clients-item">
+              <a href="#">
                 <img src="/assets/images/3E logo.jpeg"width ="150px", height="150px" alt="client logo" class="clients-image">
-              </a> -->
-            </li>
+              </a>
+            </li> -->
 
-            <li class="clients-item">
-              <!-- <a href="#">
+            <!-- <li class="clients-item">
+              <a href="#">
                 <img src="/assets/images/mint mobile.jpeg"width ="150px", height="150px" alt="client logo" class="clients-image">
-              </a> -->
-            </li>
+              </a>
+            </li> -->
 
             <li class="clients-item">
               <a href="#">
@@ -1345,7 +1345,9 @@
 
         <section class="mapbox" data-mapbox>
           <figure>
-           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3441.231803651844!2d-97.70993802449829!3d30.401164501581516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8644cd72f888e4c3%3A0xbcc4633ea5a4b0b3!2s11900%20Stonehollow%20Dr%2C%20Austin%2C%20TX%2078758!5e0!3m2!1sen!2sus!4v1707415888305!5m2!1sen!2sus" width="600" height="450" width="400" height="300" loading="lazy"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d109973.36045110699!2d-97.88029518125711!3d30.53043942248958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d30.4356492!2d-97.7318547!4m5!1s0x865b2a43bd6fbc63%3A0xfe2629f589bb3a2f!2s1836%20Equine%20Rd%2C%20Leander%2C%20TX%2078641!3m2!1d30.6319745!2d-97.84304139999999!5e0!3m2!1sen!2sus!4v1732057768036!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+            
           </figure>
         </section>
 
