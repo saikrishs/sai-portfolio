@@ -707,7 +707,7 @@
             </li> -->
 
           </ol>
-
+<!-- 
         </section>
 
         <section class="timeline">
@@ -893,9 +893,9 @@
 
           </ul>
 
-        </section>
-
-      </article> -->
+        </section> -->
+<!-- 
+      </article> --> -->
 
 
 
