@@ -369,7 +369,7 @@
         - #ABOUT
       -->
 
-      <article class="about  active" data-page="about">
+      <!-- <article class="about  active" data-page="about">
 
         <header>
           <h2 class="h2 article-title">About me</h2>
@@ -647,12 +647,12 @@
 
         </section>
 
-      </article>
+      </article> -->
       <!--
         - #RESUME
       -->
 
-      <article class="resume" data-page="resume">
+      <!-- <article class="resume" data-page="resume">
 
         <header>
           <h2 class="h2 article-title">Resume</h2>
@@ -895,7 +895,7 @@
 
         </section>
 
-      </article>
+      </article> -->
 
 
 
@@ -905,7 +905,7 @@
         - #PORTFOLIO
       -->
 
-      <article class="portfolio" data-page="portfolio">
+      <!-- <article class="portfolio" data-page="portfolio">
 
         <header>
           <h2 class="h2 article-title">Portfolio</h2>
@@ -1135,7 +1135,7 @@
 
         </section>
 
-      </article>
+      </article> -->
 
 
 
@@ -1145,7 +1145,7 @@
         - #BLOG
       -->
 
-      <article class="blog" data-page="blog">
+      <!-- <article class="blog" data-page="blog">
 
         <header>
           <h2 class="h2 article-title">Blog</h2>
@@ -1327,7 +1327,7 @@
 
         </section>
 
-      </article>
+      </article> -->
 
 
 
@@ -1337,7 +1337,7 @@
         - #CONTACT
       -->
 
-      <article class="contact" data-page="contact">
+      <!-- <article class="contact" data-page="contact">
 
         <header>
           <h2 class="h2 article-title">Contact</h2>
@@ -1372,7 +1372,7 @@
 
         </section>
 
-      </article>
+      </article> -->
 
     </div>
 
