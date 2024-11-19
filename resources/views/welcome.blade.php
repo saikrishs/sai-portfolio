@@ -323,13 +323,13 @@
 
 
 
-    <!--
+<!--     
       - #main-content
     -->
 
     <div class="main-content">
 
-      <!--
+<!--       
         - #NAVBAR
       -->
 
@@ -365,11 +365,11 @@
 
 
 
-      <!--
+<!--       
         - #ABOUT
       -->
 
-      <!-- <article class="about  active" data-page="about">
+      <article class="about  active" data-page="about">
 
         <header>
           <h2 class="h2 article-title">About me</h2>
@@ -396,7 +396,7 @@
           - service
         -->
 
-        <!-- <section class="service">
+        <section class="service">
 
           <h3 class="h3 service-title">What i'm doing</h3>
 
@@ -469,14 +469,14 @@
 
           </ul>
 
-        </section> -->
+        </section>
 
 
-        <!--
+<!--         
           - testimonials
         -->
 
-        <!-- <section class="testimonials">
+        <section class="testimonials">
 
           <h3 class="h3 testimonials-title">Testimonials</h3>
 
@@ -524,7 +524,7 @@
               <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="/assets/images/avatar-2.png" alt="Lakshmi J" width="60" data-testimonials-avatar>
+                  <img src="/assets/images/avatar-2.png" alt="Neha" width="60" data-testimonials-avatar>
                 </figure>
 
                 <h4 class="h4 testimonials-item-title" data-testimonials-title>Lakshmi J</h4>
@@ -542,7 +542,7 @@
               <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="/assets/images/avatar-3.png" alt="Divya J" width="60" data-testimonials-avatar>
+                  <img src="/assets/images/avatar-3.png" alt="Lakshmi" width="60" data-testimonials-avatar>
                 </figure>
 
                 <h4 class="h4 testimonials-item-title" data-testimonials-title>Divya J</h4>
@@ -558,14 +558,14 @@
 
           </ul>
 
-        </section> -->
+        </section>
 
 
-        <!--
+<!--         
           - testimonials modal
         -->
 
-        <!-- <div class="modal-container" data-modal-container>
+        <div class="modal-container" data-modal-container>
 
           <div class="overlay" data-overlay></div>
 
@@ -601,14 +601,14 @@
 
           </section>
 
-        </div> -->
+        </div>
 
 
         <!--
           - clients
         -->
 
-        <!-- <section class="clients">
+        <section class="clients">
 
           <h3 class="h3 clients-title">Clients</h3>
 
@@ -616,20 +616,20 @@
 
             <li class="clients-item">
               <a href="#">
-                <img src="/assets/images/Nationwide.png"width ="150px", height="150px" alt="client logo" class="clients-image">
+                <img src="/assets/images/tmhcc.jpeg"width ="150px", height="150px" alt="client logo" class="clients-image">
               </a>
             </li>
 
             <li class="clients-item">
-              <a href="#">
+              <!-- <a href="#">
                 <img src="/assets/images/3E logo.jpeg"width ="150px", height="150px" alt="client logo" class="clients-image">
-              </a>
+              </a> -->
             </li>
 
             <li class="clients-item">
-              <a href="#">
+              <!-- <a href="#">
                 <img src="/assets/images/mint mobile.jpeg"width ="150px", height="150px" alt="client logo" class="clients-image">
-              </a>
+              </a> -->
             </li>
 
             <li class="clients-item">
@@ -645,14 +645,14 @@
             </li>
           </ul>
 
-        </section> -->
+        </section>
 
-      <!-- </article>  -->
+       </article> 
       <!--
         - #RESUME
       -->
 
-      <!-- <article class="resume" data-page="resume">
+      <article class="resume" data-page="resume">
 
         <header>
           <h2 class="h2 article-title">Resume</h2>
@@ -707,7 +707,7 @@
             </li> -->
 
           </ol>
-<!-- 
+
         </section>
 
         <section class="timeline">
@@ -723,19 +723,19 @@
           <ol class="timeline-list">
 
             <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Nationwide,NE</h4>
+              <h4 class="h4 timeline-item-title">TMHCC, CA </h4>
 
               <h4 class="h4 timeline-item-title">PHP Web Developer</h4>
 
-              <span>December 2022 – Present</span>
+              <span>March 2024 – Present</span>
 
               <p class="timeline-text">
-                Accomplished PHP Web Developer at Nationwide, NE, specializing in PHP, React.js, and HTML5 for robust web app interfaces. Proficient in Laravel's Blade Templating Engine and Eloquent ORM, optimizing customer experiences. Implemented React.js's Unidirectional Data Flow. Developed efficient web services with nodejs, improving transaction processing speed. Expert in MySQL for effective database management. Wrote comprehensive test cases, reducing bug resolution time. Integrated payment systems, which increase successful transactions. Deployed applications on AWS, and achieved a reduction in server response time.
+              At TMHCC, developed responsive user interfaces for insurance applications, including workflows (Policy, Submission) and dashboards (Policies, Brokers, Users), utilizing React.js, TypeScript, Tailwind CSS, and JavaScript to enhance loading times by 30%, driving a 25% increase in user engagement. Built RESTful microservices with Symfony, Laravel, and Node.js, improving transaction speeds by 15% and integrating secure payments via Stripe and Authorize.Net. Optimized MySQL database design for integrity and performance. Deployed containerized applications on AWS, reducing deployment time by 30% through Jenkins pipelines. Leveraged AWS AI services like Rekognition and analytics tools (Datadog, Pendo) to enhance document handling, monitoring, and decision-making efficiency.
               </p>
 
             </li>
 
-            <li class="timeline-item">
+            <!-- <li class="timeline-item">
               <h4 class="h4 timeline-item-title">3E Company, OH</h4>
               <h4 class="h4 timeline-item-title">PHP Web Developer</h4>
 
@@ -745,16 +745,16 @@
                 Experienced UI Developer specializing in React.js and Laravel's Blade Templating Engine for Chemical Data Management. Enhanced internal user engagement through responsive UI design. Developed efficient restful APIs using Laravel, Swagger, and Redis, optimizing API response time. Proficient in Postgres for Database Management, streamlining data retrieval for Risk Assessment and Reporting. Implemented thorough test suites with PHPUnit for comprehensive API and UI validation. Contributed to Agile methodologies, fostering effective communication within cross-functional teams. Successfully deployed applications on Azure, prioritizing scalability and security for improved performance. Maintained coding standards, conducted code reviews, and encouraged a culture of continuous improvement in a collaborative work environment.
               </p>
 
-            </li>
+            </li> -->
 
             <li class="timeline-item">
-              <h4 class="h4 timeline-item-title">Mint Mobile, CA</h4>
+              <h4 class="h4 timeline-item-title">DSU, SD</h4>
               <h4 class="h4 timeline-item-title">Full-stack Developer</h4>
 
-              <span>Mar 2018 - Aug 2020</span>
+              <span>Feb 2023 - Nov 2023</span>
 
               <p class="timeline-text">
-                Experienced Full Stack Web Developer proficient in React.js, Bootstrap CSS, and Tailwind CSS, creating visually appealing interfaces. Enhanced Customer Segmentation features, elevating user satisfaction. Developed efficient web services for Mint Mobile's plans, and achieved a boost in transaction processing speed. Optimized database models, reducing data retrieval time. Executed comprehensive test cases, resulting in a 30% reduction in bug resolution time. Deployed applications on Azure, collaborated in Agile environments and implemented design patterns for robust feature implementation. Skilled in PHP, Symfony, and Drupal, ensuring security compliance. Conducted code reviews and maintained version control for seamless feature integration.
+              Developed and maintained key Learning Management System (LMS) features, including user management, content management, assessments, and certificate generation, using React.js, HTML, CSS, JavaScript, and jQuery to deliver a seamless user experience. Built dynamic RESTful endpoints with PHP and Laravel for user and course management, employing Test-Driven Development (TDD) with PHPUnit and Postman to ensure high-quality, validated software. Optimized Postgres schemas with stored procedures and caching strategies, improving query performance and data retrieval speeds. Streamlined CI/CD workflows using Azure Pipelines, automating build, testing, and deployments, reducing errors and accelerating feature delivery for high-traffic applications.
               </p>
 
             </li>
@@ -762,10 +762,10 @@
               <h4 class="h4 timeline-item-title">Greenesol Power Systems Pvt Ltd,IND</h4>
               <h4 class="h4 timeline-item-title">Software Application Developer</h4>
 
-              <span>Jan 2015 - Nov 2016</span>
+              <span>Nov 2019 – Dec 2022</span>
 
               <p class="timeline-text">
-                Dynamic Software Application Developer skilled in crafting intuitive WordPress interfaces with Widgets and Plugins. Implemented robust User Authentication and Roles, resulting in a decrease in security incidents. Developed efficient web services in PHP and WordPress, and achieved a reduction in response time. Designed optimized database models, enhancing Document Management with improvement in data retrieval speed. Executed comprehensive testing, reducing post-deployment issues. Deployed scalable applications on AWS, cutting hosting costs. Proficient in Git version control, Linux backend management, and Jenkins pipelines. Collaborative team player improving project dashboard effectiveness. Utilized PHP, JavaScript, HTML, CSS, and jQuery for dynamic, responsive UI features.
+              Developed responsive user interfaces for CRM modules, including Lead Management, Sales Processes, Task Management, and Document Management, using PHP, JavaScript, HTML, CSS, and jQuery, improving customer request resolution times by 20%. Built and enhanced web services with PHP, Symfony, Node.js, and Postgres, incorporating Redis caching to boost performance. Conducted comprehensive unit and integration testing, reducing post-deployment issues by 20% and ensuring application reliability. Deployed and managed applications on AWS, optimizing scalability and maintainability, while integrating Jenkins pipelines for continuous delivery, accelerating time-to-market by 25% and minimizing deployment errors.
               </p>
 
             </li>
@@ -773,10 +773,10 @@
               <h4 class="h4 timeline-item-title">Ghrian Technologies Pvt Ltd, IND</h4>
               <h4 class="h4 timeline-item-title">PHP/Front-End Developer</h4>
 
-              <span>Nov 2012 - Dec 2014</span>
+              <span>June 2016 – Oct 2019</span>
 
               <p class="timeline-text">
-                Experienced PHP/Front-End Developer skilled in PHP, Symfony, jQuery, Bootstrap, CSS, and JavaScript. Drove enhancements on Abhibus.com, achieving a user base increase and reducing bounce rates. Integrated MySQL for streamlined data management, employed Git for version control and executed deployments on Linux servers. Implemented Jenkins for automated code deployment, reducing deployment time. Engineered interactive features such as a virtual seat selection system, leading to an increase in user satisfaction and a reduction in booking confirmation time. Ensured mobile responsiveness, resulting in an increase in mobile bookings and a rise in overall platform accessibility.
+              Developed core features for a Bus Seat Reservation website, including advanced search, real-time seat availability, dynamic pricing, and booking, using Angular, Bootstrap, CSS, and JavaScript, boosting the user base by 10% and reducing bounce rates by 15%. Built RESTful endpoints with PHP, Symfony, and MySQL for real-time booking and integrated payment gateways like PayU and Razorpay, cutting booking confirmation times by 30%. Enhanced user engagement by 25% through automated travel alerts and multi-channel customer support. Leveraged Google Analytics for data-driven improvements, increasing promotional engagement by 25%. Delivered projects on time in a Waterfall environment, raising customer satisfaction by 20%.
               </p>
 
             </li>
@@ -893,19 +893,19 @@
 
           </ul>
 
-        </section> -->
-<!-- 
-      </article> --> -->
+        </section> 
+
+      </article> 
 
 
 
 
 
-      <!--
+      
         - #PORTFOLIO
-      -->
+     
 
-      <!-- <article class="portfolio" data-page="portfolio">
+      <article class="portfolio" data-page="portfolio">
 
         <header>
           <h2 class="h2 article-title">Portfolio</h2>
@@ -1135,7 +1135,7 @@
 
         </section>
 
-      </article> -->
+      </article>
 
 
 
@@ -1145,7 +1145,7 @@
         - #BLOG
       -->
 
-      <!-- <article class="blog" data-page="blog">
+      <article class="blog" data-page="blog">
 
         <header>
           <h2 class="h2 article-title">Blog</h2>
@@ -1327,7 +1327,7 @@
 
         </section>
 
-      </article> -->
+      </article>
 
 
 
@@ -1337,7 +1337,7 @@
         - #CONTACT
       -->
 
-      <!-- <article class="contact" data-page="contact">
+      <article class="contact" data-page="contact">
 
         <header>
           <h2 class="h2 article-title">Contact</h2>
@@ -1372,7 +1372,7 @@
 
         </section>
 
-      </article> -->
+      </article>
 
     </div>
 
