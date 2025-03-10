@@ -506,7 +506,7 @@
               <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="/assets/images/avatar-4.png" alt="Vamsi S" width="60" data-testimonials-avatar>
+                  <img src="/assets/images/avatar-4.png" alt="Vamsi" width="60" data-testimonials-avatar>
                 </figure>
 
                 <h4 class="h4 testimonials-item-title" data-testimonials-title>Vamsi S</h4>
