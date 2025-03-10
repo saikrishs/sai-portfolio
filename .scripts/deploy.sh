@@ -1,33 +1,32 @@
-#!/bin/bash
-set -e  # Stop script on errors
+#! /bin/bash
 
-echo "Deployment started..."
+echo "Deployment Started......"
 
-# Check if Laravel is already in maintenance mode before enabling it
-if ! php artisan up; then 
-    php artisan down
-fi
+echo "This app is being updated. Please try again in a minute"
 
-echo "Pulling latest changes..."
-git reset --hard
-git pull origin master || { echo "Git pull failed"; exit 1; }
+(php artisan down) || true
 
-echo "Installing dependencies..."
-composer install --no-interaction --no-dev --optimize-autoloader || { echo "Composer install failed"; exit 1; }
+git fetch origin master
+git reset --hard origin/master
+git pull origin master
 
-echo "Running database migrations..."
-php artisan migrate --force || { echo "Migrations failed"; exit 1; }
 
-echo "Restarting queue and clearing cache..."
-php artisan queue:restart || true
-php artisan config:clear
+npm install && npm run build
+
+COMPOSER_ALLOW_SUPERUSER=1 composer install --no-dev --no-interaction --prefer-dist --optimize-autoloader
+
+php artisan clear-compiled
+php artisan route:clear
 php artisan cache:clear
+php artisan config:clear
 php artisan view:clear
 
-echo "Restarting PHP-FPM..."
-sudo systemctl restart php-fpm || true
 
-echo "Bringing the app back up..."
-php artisan up  # Ensure app is live after deployment
+php artisan config:cache
+php artisan optimize
 
-echo "Deployment completed successfully!"
+php artisan migrate --force
+
+php artisan up
+
+echo "deployment completed...."
