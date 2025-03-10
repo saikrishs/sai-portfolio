@@ -9,7 +9,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
+
       - name: Deploy to Sai Server
         uses: appleboy/ssh-action@master
         with:
@@ -17,6 +19,11 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.SSH_PASSWORD }}
           port: ${{ secrets.PORT }}
-          script: "cd /var/www/sai-portfolio && chmod +x .scripts/deploy.sh
-          && ./.scripts/deploy.sh"
-
+          script: |
+            cd /var/www/sai-portfolio
+            git fetch origin master
+            git reset --hard origin/master
+            git pull origin master
+            
+            chmod +x .scripts/deploy.sh
+            ./.scripts/deploy.sh
