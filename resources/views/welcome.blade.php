@@ -386,7 +386,7 @@
             Moreover, I
             add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring
             across your
-            message and identity in the most creative way. I created web design for many famous brand companies.
+            message and identity in the most creative way. I created web design for many famous brands companies.
           </p>
           <p>I have experience with <b>HTML, CSS, JavaScript, React.js, Symfony, Laravel, MySQL, PHP, and AWS</b>. Beyond my work, I find satisfaction in stretching my horizons in terms of knowledge, keeping up with daily technical advancements, and exploring new places.</p>
         </section>
@@ -495,7 +495,7 @@
                   <p>
                     Sai was hired to create a corporate identity. We were very pleased with the work done. He has a
                     lot of experience
-                    and is very concerned about the needs of client. As a PHP Web Developer, they consistently deliver robust web app interfaces, showcasing expertise in Laravel and React.js. Their commitment to quality, evident in comprehensive test cases, and proficiency in optimizing customer experiences make sai an invaluable asset. Their contributions significantly enhance project success.
+                    and is very concerned about the needs of client. As a Web Applicstion Developer, they consistently deliver robust web app interfaces, showcasing expertise in Laravel and React.js. Their commitment to quality, evident in comprehensive test cases, and proficiency in optimizing customer experiences make sai an invaluable asset. Their contributions significantly enhance project success.
                   </p>
                 </div>
 
