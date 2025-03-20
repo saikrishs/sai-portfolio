@@ -388,7 +388,7 @@
             across your
             message and identity in the most creative way. I created web design for many famous brand companies.
           </p>
-          <p>I have experience with <b>HTML, CSS, JavaScript, React.js, Symfony, MySQL, PHP, and AWS</b>. Beyond my work, I find satisfaction in stretching my horizons in terms of knowledge, keeping up with daily technical advancements, and exploring new places.</p>
+          <p>I have experience with <b>HTML, CSS, JavaScript, React.js, Symfony, Laravel, MySQL, PHP, and AWS</b>. Beyond my work, I find satisfaction in stretching my horizons in terms of knowledge, keeping up with daily technical advancements, and exploring new places.</p>
         </section>
 
 
