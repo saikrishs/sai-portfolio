@@ -513,7 +513,7 @@
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
-                    Sai Krishna is an exceptional UI Developer specializing in React.js and Laravel's Blade Templating Engine for Chemical Data Management. Their contributions include enhancing internal user engagement through responsive UI design and optimizing API response time with efficient Laravel, Swagger, and Redis. With proficiency in Postgres, He streamlines data retrieval for Risk Assessment and Reporting. Their commitment to quality, thorough testing, and collaborative work methodologies significantly elevate project success.
+                    Sai Krishna is a skilled Software Application Developer specializing in React.js, Laravel, PHP, and Node.js. He excels in building responsive UIs, robust web services, and scalable cloud solutions. With expertise in AWS, Jenkins, Swagger, and Redis, he optimizes performance, deployment, and API efficiency. His strong focus on quality, testing, and collaboration ensures seamless workflows and reliable applications.
                   </p>
                 </div>
 
