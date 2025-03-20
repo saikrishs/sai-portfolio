@@ -495,7 +495,7 @@
                   <p>
                     Sai was hired to create a corporate identity. We were very pleased with the work done. He has a
                     lot of experience
-                    and is very concerned about the needs of client. As a Web Applicstion Developer, they consistently deliver robust web app interfaces, showcasing expertise in Laravel and React.js. Their commitment to quality, evident in comprehensive test cases, and proficiency in optimizing customer experiences make sai an invaluable asset. Their contributions significantly enhance project success.
+                    and is very concerned about the needs of client. As a Web Application Developer, they consistently deliver robust web app interfaces, showcasing expertise in Laravel and React.js. Their commitment to quality, evident in comprehensive test cases, and proficiency in optimizing customer experiences make sai an invaluable asset. Their contributions significantly enhance project success.
                   </p>
                 </div>
 
