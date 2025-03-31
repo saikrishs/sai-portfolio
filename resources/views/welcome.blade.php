@@ -577,7 +577,7 @@
 
             <div class="modal-img-wrapper">
               <figure class="modal-avatar-box">
-                <img src="/assets/images/avatar-1.png" alt="Gopi S" width="80" data-modal-img>
+                <img src="/assets/images/avatar-1.png" alt="Gopi" width="80" data-modal-img>
               </figure>
 
               <img src="/assets/images/icon-quote.svg" alt="quote icon">
@@ -585,7 +585,7 @@
 
             <div class="modal-content">
 
-              <h4 class="h3 modal-title" data-modal-title>Gopi S</h4>
+              <h4 class="h3 modal-title" data-modal-title>Gopi</h4>
 
               <time datetime="2021-06-14">14 June, 2021</time>
 
