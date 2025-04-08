@@ -558,7 +558,7 @@
           - testimonials modal
         -->
 
-        <!-- <div class="modal-container" data-modal-container>
+        <div class="modal-container" data-modal-container>
 
           <div class="overlay" data-overlay></div>
 
@@ -594,7 +594,7 @@
 
           </section>
 
-        </div> -->
+        </div>
 
 
         <!--
