@@ -381,7 +381,7 @@
           </p>
 
           <p>
-            My goal is to create websites that are not only user-friendly and functional but also engaging and visually attractive. I always aim to add a personal touch to every project, ensuring it effectively conveys your brand’s message and identity in a unique and creative way. I have had the opportunity to design and develop websites for several well-known brands and companies. goal is to build websites so that it is functional and user-friendly but at the same time attractive.
+          My goal is to create websites that are not only user-friendly and functional but also engaging and visually attractive. I always aim to add a personal touch to every project, ensuring it effectively conveys your brand’s message and identity in a unique and creative way. I have had the opportunity to design and develop websites for several well-known brands and companies. goal is to build websites so that it is functional and user-friendly but at the same time attractive.
           </p>
           <p>I have hands-on experience with <b>HTML, CSS, JavaScript, React.js, Node.js, PHP (Symfony, Laravel), MySQL, PostgreSQL, and cloud platforms like AWS and Azure</b>. I’m also proficient in <b>Agile methodologies and CI/CD pipelines</b>. Beyond development, I’m passionate about learning new technologies, staying updated with the latest trends, and exploring new places</p>
         </section>
