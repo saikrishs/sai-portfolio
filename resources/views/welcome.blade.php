@@ -216,7 +216,7 @@
         <div class="info-content">
           <h1 class="name" title="Sai Srungavarapu">Sai Srungavarapu</h1>
 
-          <p class="title">Web developer</p>
+          <p class="title">Web Developer</p>
         </div>
 
         <button class="info_more-btn" data-sidebar-btn>
@@ -296,19 +296,19 @@
         <ul class="social-list">
 
           <li class="social-item">
-            <a href="#" class="social-link">
+            <a href="https://www.linkedin.com/in/saikrishs/" class="social-link">
               <ion-icon name="logo-linkedin"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
-            <a href="#" class="social-link">
+            <a href="https://github.com/saikrishs" class="social-link">
               <ion-icon name="logo-github"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
-            <a href="#" class="social-link">
+            <a href="https://www.instagram.com/" class="social-link">
               <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </li>
@@ -377,18 +377,13 @@
 
         <section class="about-text">
           <p>
-            I'm Creative <b>Web Application Developer</b>, with strong interest in Web Application Development.
-            I enjoy turning complex problems into simple, beautiful and intuitive designs.
+            I'm Creative <b>Web Application Developer</b>, with a strong passion for building functional and visually appealing web applications.I enjoy turning complex problems into simple, beautiful and intuitive designs.
           </p>
 
           <p>
-            My job is to build websites so that it is functional and user-friendly but at the same time attractive.
-            Moreover, I
-            add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring
-            across your
-            message and identity in the most creative way. I created web design for many famous brands companies.
+            My goal is to create websites that are not only user-friendly and functional but also engaging and visually attractive. I always aim to add a personal touch to every project, ensuring it effectively conveys your brand’s message and identity in a unique and creative way. I have had the opportunity to design and develop websites for several well-known brands and companies. goal is to build websites so that it is functional and user-friendly but at the same time attractive.
           </p>
-          <p>I have experience with <b>HTML, CSS, JavaScript, React.js, Symfony, Laravel, MySQL, PHP, and AWS</b>. Beyond my work, I find satisfaction in stretching my horizons in terms of knowledge, keeping up with daily technical advancements, and exploring new places.</p>
+          <p>I have hands-on experience with <b>HTML, CSS, JavaScript, React.js, Node.js, PHP (Symfony, Laravel), MySQL, PostgreSQL, and cloud platforms like AWS and Azure</b>. I’m also proficient in <b>Agile methodologies and CI/CD pipelines</b>. Beyond development, I’m passionate about learning new technologies, staying updated with the latest trends, and exploring new places</p>
         </section>
 
 
@@ -486,16 +481,14 @@
               <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="/assets/images/avatar-1.png" alt="Gopibabu" width="60" data-testimonials-avatar>
+                  <img src="/assets/images/avatar-1.png" alt="Vamsi" width="60" data-testimonials-avatar>
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title>Gopibabu</h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Vamsi</h4>
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
-                    Sai was hired to create a corporate identity. We were very pleased with the work done. He has a
-                    lot of experience
-                    and is very concerned about the needs of client. As a Web Application Developer, they consistently deliver robust web app interfaces, showcasing expertise in Laravel and React.js. Their commitment to quality, evident in comprehensive test cases, and proficiency in optimizing customer experiences make sai an invaluable asset. Their contributions significantly enhance project success.
+                  Sai was hired to create a corporate identity, and we were very pleased with the work delivered. He brings a wealth of experience and shows a strong commitment to understanding and meeting client needs. As a Web Application Developer, Sai consistently delivers high-quality web app interfaces that highlight his technical expertise. His dedication to quality is evident through comprehensive test cases and his focus on optimizing user experiences. Sai's contributions have been invaluable, significantly enhancing the success of our projects.
                   </p>
                 </div>
 
@@ -506,14 +499,14 @@
               <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="/assets/images/avatar-4.png" alt="Vamsi" width="60" data-testimonials-avatar>
+                  <img src="/assets/images/avatar-4.png" alt="Gopi" width="60" data-testimonials-avatar>
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title>Vamsi S</h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Gopi</h4>
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
-                    Sai Krishna is a skilled Software Application Developer specializing in React.js, Laravel, PHP, and Node.js. He excels in building responsive UIs, robust web services, and scalable cloud solutions. With expertise in AWS, Jenkins, Swagger, and Redis, he optimizes performance, deployment, and API efficiency. His strong focus on quality, testing, and collaboration ensures seamless workflows and reliable applications.
+                  Sai is a skilled Software Application Developer who excels in building responsive user interfaces, web services, and scalable cloud solutions. He consistently optimizes performance, deployment processes, and API efficiency. His strong focus on quality, thorough testing, and collaborative teamwork ensures seamless workflows and highly reliable applications..
                   </p>
                 </div>
 
@@ -531,7 +524,7 @@
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
-                    Collaborating with Sai has been exceptional. As an experienced Full Stack Web Developer, they excel in creating visually appealing interfaces and elevating user satisfaction through enhanced features. Notably, He played a key role in optimizing transaction processing speed and reducing data retrieval time. Their commitment to quality, comprehensive testing, and proficiency in security compliance contribute significantly to project success. He is a valuable team member, consistently delivering impactful contributions in Agile environments, conducting thorough code reviews, and ensuring seamless feature integration.
+                  Collaborating with Sai has been an exceptional experience. As an experienced Full Stack Web Developer, he excels at creating visually appealing interfaces and enhancing user satisfaction through feature-rich applications. Notably, he played a key role in optimizing transaction processing speeds and reducing data retrieval times. His commitment to quality, comprehensive testing, and strong proficiency in security compliance have significantly contributed to project success. Sai is a valuable team member who consistently delivers impactful contributions in Agile environments, conducts thorough code reviews, and ensures seamless feature integration.
                   </p>
                 </div>
 
@@ -549,7 +542,7 @@
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
-                    Working along with Sai Krish has been exceptional. As a dynamic Web Application Developer, they excel in crafting intuitive WordPress interfaces and implementing robust User Authentication and Roles. Sai Krish demonstrated efficiency in developing web services, optimizing database models, and executing comprehensive testing. Their deployment of scalable applications showcases cost-cutting initiatives, enhancing overall project effectiveness.
+                  Working alongside Sai Krish has been an exceptional experience. As a dynamic Web Application Developer, he excels in designing intuitive interfaces and implementing robust user authentication and role-based access controls. Sai Krish has demonstrated efficiency in developing web services, optimizing database models, and executing comprehensive testing. His deployment of scalable applications reflects a strong focus on cost-efficiency and project effectiveness. He is also very cooperative with the team and an absolute pleasure to work with.
                   </p>
                 </div>
 
@@ -565,7 +558,7 @@
           - testimonials modal
         -->
 
-        <div class="modal-container" data-modal-container>
+        <!-- <div class="modal-container" data-modal-container>
 
           <div class="overlay" data-overlay></div>
 
@@ -601,7 +594,7 @@
 
           </section>
 
-        </div>
+        </div> -->
 
 
         <!--
@@ -634,7 +627,7 @@
 
             <li class="clients-item">
               <a href="#">
-                <img src="/assets/images/greenesol.jpeg"width ="150px", height="150px" alt="client logo" class="clients-image">
+                <img src="/assets/images/greenesol.jpeg"width ="100px", height="150px" alt="client logo" class="clients-image">
               </a>
             </li>
 
