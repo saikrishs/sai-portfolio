@@ -667,7 +667,7 @@
 
               <h4 class="h4 timeline-item-title">Dakota State University</h4>
 
-              <!-- <span>2007 — 2008</span> -->
+              <span>Dec 2022 — Dec 2023</span>
 
               <p class="timeline-text">
                 Masters in Information Systems-Data Management(Madison, SD)
@@ -677,9 +677,9 @@
 
             <li class="timeline-item">
 
-              <h4 class="h4 timeline-item-title">JNTUK</h4>
+              <h4 class="h4 timeline-item-title">Jawaharlal Nehru Technological University</h4>
 
-              <!-- <span>2006 — 2007</span> -->
+              <span>July 2013 — Nov 2017</span>
 
               <p class="timeline-text">
                 Bachelors in Computer Science & Engineering(Kakinada, India)
@@ -723,7 +723,7 @@
               <span>March 2024 – Present</span>
 
               <p class="timeline-text">
-              At TMHCC, developed responsive user interfaces for insurance applications, including workflows (Policy, Submission) and dashboards (Policies, Brokers, Users), utilizing React.js, TypeScript, Tailwind CSS, and JavaScript to enhance loading times by 30%, driving a 25% increase in user engagement. Built RESTful microservices with Symfony, Laravel, and Node.js, improving transaction speeds by 15% and integrating secure payments via Stripe and Authorize.Net. Optimized MySQL database design for integrity and performance. Deployed containerized applications on AWS, reducing deployment time by 30% through Jenkins pipelines. Leveraged AWS AI services like Rekognition and analytics tools (Datadog, Pendo) to enhance document handling, monitoring, and decision-making efficiency.
+              At TMHCC, contributed to the development of responsive user interfaces for insurance applications, including workflows and dashboards, which improved loading times by 30% and boosted user engagement by 25%. Designed and implemented backend services that enhanced transaction speeds and enabled secure online payments. Streamlined database design to ensure data integrity and performance. Led deployment efforts for containerized applications, cutting deployment time by 30% through automated pipelines. Additionally, utilized advanced AI services and analytics tools to enhance document processing, system monitoring, and decision-making capabilities.
               </p>
 
             </li>
@@ -747,7 +747,7 @@
               <span>Feb 2023 - Nov 2023</span>
 
               <p class="timeline-text">
-              Developed and maintained key Learning Management System (LMS) features, including user management, content management, assessments, and certificate generation, using React.js, HTML, CSS, JavaScript, and jQuery to deliver a seamless user experience. Built dynamic RESTful endpoints with PHP and Laravel for user and course management, employing Test-Driven Development (TDD) with PHPUnit and Postman to ensure high-quality, validated software. Optimized Postgres schemas with stored procedures and caching strategies, improving query performance and data retrieval speeds. Streamlined CI/CD workflows using Azure Pipelines, automating build, testing, and deployments, reducing errors and accelerating feature delivery for high-traffic applications.
+              Developed and maintained core features of a Learning Management System (LMS), including user and content management, assessments, and certificate generation, ensuring a smooth and intuitive user experience. Designed dynamic endpoints to manage users and courses, following a test-driven approach to maintain software reliability and quality. Enhanced database performance through schema optimization and efficient data handling strategies. Automated the build, test, and deployment processes, reducing deployment errors and accelerating the release of new features for high-traffic educational applications.
               </p>
 
             </li>
@@ -758,7 +758,7 @@
               <span>Nov 2019 – Dec 2022</span>
 
               <p class="timeline-text">
-              Developed responsive user interfaces for CRM modules, including Lead Management, Sales Processes, Task Management, and Document Management, using PHP, JavaScript, HTML, CSS, and jQuery, improving customer request resolution times by 20%. Built and enhanced web services with PHP, Symfony, Node.js, and Postgres, incorporating Redis caching to boost performance. Conducted comprehensive unit and integration testing, reducing post-deployment issues by 20% and ensuring application reliability. Deployed and managed applications on AWS, optimizing scalability and maintainability, while integrating Jenkins pipelines for continuous delivery, accelerating time-to-market by 25% and minimizing deployment errors.
+              Developed responsive user interfaces for CRM modules such as Lead Management, Sales Processes, Task Management, and Document Handling, resulting in a 20% improvement in customer request resolution times. Designed and optimized backend services to enhance system performance and data flow. Implemented robust testing strategies to reduce post-deployment issues by 20% and ensure system reliability. Deployed and managed applications in a scalable cloud environment, leveraging continuous delivery pipelines to accelerate time-to-market by 25% and reduce deployment-related errors.
               </p>
 
             </li>
@@ -769,7 +769,7 @@
               <span>June 2016 – Oct 2019</span>
 
               <p class="timeline-text">
-              Developed core features for a Bus Seat Reservation website, including advanced search, real-time seat availability, dynamic pricing, and booking, using Angular, Bootstrap, CSS, and JavaScript, boosting the user base by 10% and reducing bounce rates by 15%. Built RESTful endpoints with PHP, Symfony, and MySQL for real-time booking and integrated payment gateways like PayU and Razorpay, cutting booking confirmation times by 30%. Enhanced user engagement by 25% through automated travel alerts and multi-channel customer support. Leveraged Google Analytics for data-driven improvements, increasing promotional engagement by 25%. Delivered projects on time in a Waterfall environment, raising customer satisfaction by 20%.
+              Developed core features for a Bus Seat Reservation website, including advanced search, real-time seat availability, dynamic pricing, and booking, which resulted in a 10% increase in the user base and a 15% reduction in bounce rates. Built RESTful endpoints for real-time booking and integrated payment gateways like PayU and Razorpay, reducing booking confirmation times by 30%. Enhanced user engagement by 25% through automated travel alerts and multi-channel customer support. Leveraged analytics for data-driven improvements, leading to a 25% increase in promotional engagement. Delivered the project on time in a Waterfall environment, contributing to a 20% increase in customer satisfaction.
               </p>
 
             </li>
@@ -796,6 +796,18 @@
               </div>
 
             </li>
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">NodeJs</h5>
+                <data value="80">80%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+
+            </li>
 
             <li class="skills-item">
 
@@ -814,11 +826,11 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">Larvel</h5>
-                <data value="50">50%</data>
+                <data value="70">70%</data>
               </div>
 
               <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 50%;"></div>
+                <div class="skill-progress-fill" style="width: 70%;"></div>
               </div>
 
             </li>
@@ -827,11 +839,11 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">Symfony</h5>
-                <data value="50">50%</data>
+                <data value="70">70%</data>
               </div>
 
               <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 50%;"></div>
+                <div class="skill-progress-fill" style="width: 70%;"></div>
               </div>
 
             </li>
@@ -863,11 +875,11 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">Reactjs</h5>
-                <data value="50">50%</data>
+                <data value="80">80%</data>
               </div>
 
               <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 50%;"></div>
+                <div class="skill-progress-fill" style="width: 80%;"></div>
               </div>
 
             </li>
@@ -875,6 +887,19 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">AWS</h5>
+                <data value="80">80%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+
+            </li>
+            </li>
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Azure</h5>
                 <data value="80">80%</data>
               </div>
 
@@ -913,7 +938,7 @@
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn>Web design</button>
+              <button data-filter-btn>Web Design</button>
             </li>
 
             <li class="filter-item">
@@ -921,7 +946,7 @@
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn>Web development</button>
+              <button data-filter-btn>Web Development</button>
             </li>
 
           </ul>
@@ -1162,10 +1187,10 @@
 
                     <span class="dot"></span>
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                    <time datetime="2024-02-23">Fab 23, 2024</time>
                   </div>
 
-                  <h3 class="h3 blog-item-title">Design conferences in 2022</h3>
+                  <h3 class="h3 blog-item-title">Design conferences in 2024</h3>
 
                   <p class="blog-text">
                     Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
@@ -1190,7 +1215,7 @@
 
                     <span class="dot"></span>
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                    <time datetime="2023-03-20">Mar 20, 2023</time>
                   </div>
 
                   <h3 class="h3 blog-item-title">Best fonts every designer</h3>
@@ -1218,7 +1243,7 @@
 
                     <span class="dot"></span>
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                    <time datetime="2023-01-23">Jan 23, 2023</time>
                   </div>
 
                   <h3 class="h3 blog-item-title">Design digest #80</h3>
@@ -1246,7 +1271,7 @@
 
                     <span class="dot"></span>
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                    <time datetime="2022-10-24">Oct 26, 2024</time>
                   </div>
 
                   <h3 class="h3 blog-item-title">UI interactions of the week</h3>
@@ -1302,7 +1327,7 @@
 
                     <span class="dot"></span>
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                    <time datetime="2022-11-23">Nov 23, 2022</time>
                   </div>
 
                   <h3 class="h3 blog-item-title">Design digest #79</h3>
