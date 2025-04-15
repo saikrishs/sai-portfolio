@@ -302,7 +302,7 @@
           </li>
 
           <li class="social-item">
-            <a href="https://github.com/saikrishs" class="social-link">
+            <a href="#" class="social-link">
               <ion-icon name="logo-github"></ion-icon>
             </a>
           </li>
@@ -383,7 +383,7 @@
           <p>
           My goal is to create websites that are not only user-friendly and functional but also engaging and visually attractive. I always aim to add a personal touch to every project, ensuring it effectively conveys your brand’s message and identity in a unique and creative way. I have had the opportunity to design and develop websites for several well-known brands and companies. goal is to build websites so that it is functional and user-friendly but at the same time attractive.
           </p>
-          <p>I have hands-on experience with <b>HTML, CSS, JavaScript, React.js, Node.js, PHP (Symfony, Laravel), MySQL, PostgreSQL, and cloud platforms like AWS and Azure</b>. I’m also proficient in <b>Agile methodologies and CI/CD pipelines</b>. Beyond development, I’m passionate about learning new technologies, staying updated with the latest trends, and exploring new places</p>
+          <p>I have hands-on experience with <b>HTML, CSS, JavaScript, React.js, Node.js, PHP (Symfony, Laravel), Drupal, MySQL, PostgreSQL, and cloud platforms like AWS and Azure</b>. I’m also proficient in <b>Agile methodologies and CI/CD pipelines</b>. Beyond development, I’m passionate about learning new technologies, staying updated with the latest trends, and exploring new places.</p>
         </section>
 
 
@@ -718,7 +718,7 @@
             <li class="timeline-item">
               <h4 class="h4 timeline-item-title">TMHCC, CA </h4>
 
-              <h4 class="h4 timeline-item-title">PHP Web Developer</h4>
+              <h4 class="h4 timeline-item-title">Full Stack Web Developer</h4>
 
               <span>March 2024 – Present</span>
 
@@ -742,7 +742,7 @@
 
             <li class="timeline-item">
               <h4 class="h4 timeline-item-title">DSU, SD</h4>
-              <h4 class="h4 timeline-item-title">Full-stack Developer</h4>
+              <h4 class="h4 timeline-item-title">Web Application Developer</h4>
 
               <span>Feb 2023 - Nov 2023</span>
 
@@ -753,7 +753,7 @@
             </li>
             <li class="timeline-item">
               <h4 class="h4 timeline-item-title">Greenesol Power Systems Pvt Ltd,IND</h4>
-              <h4 class="h4 timeline-item-title">Software Application Developer</h4>
+              <h4 class="h4 timeline-item-title">Full-Stack Web Developer</h4>
 
               <span>Nov 2019 – Dec 2022</span>
 
@@ -764,7 +764,7 @@
             </li>
             <li class="timeline-item">
               <h4 class="h4 timeline-item-title">Ghrian Technologies Pvt Ltd, IND</h4>
-              <h4 class="h4 timeline-item-title">PHP/Front-End Developer</h4>
+              <h4 class="h4 timeline-item-title">Web Application Developer</h4>
 
               <span>June 2016 – Oct 2019</span>
 
@@ -800,6 +800,31 @@
 
               <div class="title-wrapper">
                 <h5 class="h5">NodeJs</h5>
+                <data value="80">80%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+
+            </li>
+               <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">NodeJs</h5>
+                <data value="80">80%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+
+            </li>
+            </li>
+               <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Drupal</h5>
                 <data value="80">80%</data>
               </div>
 
