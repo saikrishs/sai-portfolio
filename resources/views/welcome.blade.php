@@ -797,7 +797,7 @@
               </div>
 
             </li>
-            <li class="skills-item">
+            <!-- <li class="skills-item">
 
               <div class="title-wrapper">
                 <h5 class="h5">NodeJs</h5>
@@ -808,7 +808,7 @@
                 <div class="skill-progress-fill" style="width: 80%;"></div>
               </div>
 
-            </li>
+            </li> -->
                <li class="skills-item">
 
               <div class="title-wrapper">
